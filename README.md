@@ -17,7 +17,7 @@ A sophisticated multimodal AI system that combines **computer vision**, **natura
 - End-to-End Pipeline from image input to audio output
 
 ## Dataset
- ([COCOdataset](https://www.kaggle.com/datasets/sabahesaraki/2017-2017))
+ [COCOdataset](https://www.kaggle.com/datasets/sabahesaraki/2017-2017)
 
 ## Architecture
 
